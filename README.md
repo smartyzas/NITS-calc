@@ -4,8 +4,8 @@ Ein minimalistischer Rechner für die tatsächliche Bildhelligkeit (**Nits**) de
 
 ### 🏁 Schnellstart
 1. **Lumen** eingeben (Beamer-Helligkeit).
-2. **Bildgröße** eingeben (Leinwand-Diagonale).
-3. **Gain** eingeben (Leinwand-Typ).
+2. **Bildgröße** eingeben (Leinwand "Breite * Höhe").
+3. **Gain** eingeben (Leinwand-Typ, normaleweise eine 1).
 **→ Ergebnis:** Deine Helligkeit in Nits.
 
 ### 💡 Faustregel
