@@ -11,8 +11,3 @@ Ein minimalistischer Rechner für die tatsächliche Bildhelligkeit (**Nits**) de
 ### 💡 Faustregel
 * **50+ Nits:** Super für dunkle Räume.
 * **200+ Nits:** Gut für helle Räume.
-
-### 💻 Installation
-```bash
-python nits_calc.py
-```
